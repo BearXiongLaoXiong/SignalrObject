@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Host
+namespace Host.ConsoleApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
-
         }
     }
 }
